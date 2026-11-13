@@ -1,0 +1,7 @@
+streamlit
+tensorflow>=2.16
+numpy
+pillow
+matplotlib
+pandas
+fpdf2
